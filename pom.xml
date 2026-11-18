@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ec.edu.udla.calidad</groupId>
-    <artifactId>bibliotecauniversitaria</artifactId>
+    <artifactId>biblioteca-universitaria</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>bibliotecauniversitaria</name>
-    <description>Proyecto base Maven para el Sistema de Biblioteca Universitaria - Calidad de Software UDLA</description>
+    <name>biblioteca-universitaria</name>
+    <description>Taller de Calidad de Software - Biblioteca Universitaria</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
